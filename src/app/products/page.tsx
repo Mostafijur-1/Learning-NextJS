@@ -55,9 +55,9 @@ export default async function Product() {
 
     return (
       <main className="p-4">
-        <div className="mb-4">
-          <h1 className="text-2xl font-bold">HomePage</h1>
-          <p className="text-red-500">
+        <div className="justify-center pt-40 flex" >
+         
+          <p className="text-red-500 text-5xl">
             Failed to load products. Please try again later.
           </p>
         </div>
